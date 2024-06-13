@@ -21,7 +21,8 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
     <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
-   <img src="![image](https://github.com/Lastochka-git/Ksusha-Lastochka/assets/98042654/cdf23a24-a4b4-46d2-9ae9-ad8454865d3c)"  title="sheets" alt="sheets" width="40" height="40"/>&nbsp
+   <img src="http://www.w3.org/2000/svg" title="sheets" alt="sheets" width="40" height="40"/>&nbsp
+
 
  </div>
 
